@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,15:091e3a,50:0369a1,85:0284c7,100:0d1117&height=220&section=header&text=Hi%2C%20I'm%20Andy%20%F0%9F%91%8B&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20%26%203D%20Designer&descSize=18&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
-
   <!-- Animated Typing Text -->
   <a href="https://github.com/dyasteek">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+%26+3D+Design+Enthusiast+%E2%9C%A8;Always+crafting+modern+experiences;Let's+build+something+great+together!" alt="Typing SVG" />
